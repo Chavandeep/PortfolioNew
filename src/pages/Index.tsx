@@ -66,7 +66,7 @@ const projectsData = [
     title: 'Movie Recommendation System',
     description: 'A Movie Recommendation System that suggests similar movies based on user input using machine learning and Streamlit.',
     image: '/projects/project2.jpg',
-    tags: ['React', 'Firebase', 'TailwindCSS'],
+    tags: ['Python'],
     githubUrl: 'https://github.com/Chavandeep/Movie-Recommendation-System',
     liveUrl: 'https://movie-recommendation-system-krbuctupapfpf7rtq9dyz7.streamlit.app/',
   },
